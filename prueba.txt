@@ -2,4 +2,6 @@
 
 ## seccion 1 introduccion
 
-Esta es la primer línea original de texto y termina aquí
+Esta es la primer línea original de texto y termina aquí. No, ahora aquí
+
+Además, añadimos esta línea
